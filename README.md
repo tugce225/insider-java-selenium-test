@@ -3,6 +3,10 @@ Insider `useinsider.com` web otomasyon testi projesidir.
 Java ile Maven, TestNG, Selenium kullanılarak geliştirilmiştir. 
 Test senaryoları aşağıdaki şekildedir.
 
+# Requirements
+* JDK 21.0.5
+* Selenium 4.27
+
 ## Test Cases
 * MainPageTest - Ana sayfanın başarıyla açıldığını doğrulama.
 * CareerPageTest - Career (Kariyer) sayfasındaki işlevsellik ve ana bölümlerin doğrulanması.
