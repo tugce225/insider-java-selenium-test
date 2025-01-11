@@ -19,9 +19,9 @@ public class CareerPageTest extends BaseTest {
      * 3. Açılır menüden "Careers" (Kariyer) sekmesini seç.
      * 4. Career sayfasının başlığının beklenen başlıkla eşleştiğini doğrula.
      * 5. Career sayfasında aşağıdaki bölümlerin görünürlüğünü kontrol et:
-     *  a. "Locations" (Lokasyonlar) bloğu
-     *  b. "Teams" (Ekipler) bloğu
-     *  c. "Life at Insider" (Insider'da Hayat) bloğu
+     *      a. "Locations" (Lokasyonlar) bloğu
+     *      b. "Teams" (Ekipler) bloğu
+     *      c. "Life at Insider" (Insider'da Hayat) bloğu
      * Beklenen Sonuçlar:
      * - Career sayfası başarıyla açılmalıdır.
      * - Career sayfasının başlığı beklenen başlıkla eşleşmelidir.

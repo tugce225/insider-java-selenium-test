@@ -7,7 +7,7 @@ public class MainPage {
     private final WebDriver driver;
 
     public MainPage(WebDriver driver) {
-        //PageFactory.initElements(driver, this);
+        PageFactory.initElements(driver, this);
         this.driver = driver;
     }
 
