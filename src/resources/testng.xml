@@ -1,0 +1,16 @@
+<suite name="Parallel Browser Suite" parallel="tests" thread-count="2">
+    <test name="Chrome Browser">
+        <parameter name="browser" value="chrome"/>
+        <packages>
+            <package name="org.tugceyildirim.selenium.tests"/>
+        </packages>
+    </test>
+    <!--
+    <test name="Firefox Browser">
+        <parameter name="browser" value="firefox"/>
+        <packages>
+            <package name="org.tugceyildirim.selenium.tests"/>
+        </packages>
+    </test>
+    -->
+</suite>
